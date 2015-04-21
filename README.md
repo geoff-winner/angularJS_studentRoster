@@ -1,8 +1,8 @@
 ###Developers
-Marc Lee
+Geoff Winner, Marc Lee
 
 ###Date
-April 19, 2015<br />
+April 21, 2015<br />
 
 ###Description
 Student Roster allows a user to add a student name, delete it, and search. It also adds a permission slip button next to students when you create them. Clicking the recieved permission slip button adds the student to a list of students who's permission slips have been received.
